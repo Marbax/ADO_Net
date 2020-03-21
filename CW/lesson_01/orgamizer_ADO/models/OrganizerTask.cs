@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace orgamizer_ADO.models
+﻿namespace orgamizer_ADO.models
 {
-    class OrganizerTask
+    public class OrganizerTask
     {
         public int Id { get; set; }
 

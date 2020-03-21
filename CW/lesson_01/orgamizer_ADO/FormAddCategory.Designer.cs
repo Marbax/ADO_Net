@@ -50,6 +50,7 @@
             this.textBoxCategoryName.Name = "textBoxCategoryName";
             this.textBoxCategoryName.Size = new System.Drawing.Size(210, 22);
             this.textBoxCategoryName.TabIndex = 1;
+            this.textBoxCategoryName.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBoxCategoryName_KeyUp);
             // 
             // buttonAdd
             // 

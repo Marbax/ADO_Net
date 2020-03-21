@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace orgamizer_ADO.models
 {
-    class Category
+    public class Category
     {
         public int Id { get; set; }
 

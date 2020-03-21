@@ -74,6 +74,12 @@
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormRemoveCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRemoveCategory.Designer.cs">
+      <DependentUpon>FormRemoveCategory.cs</DependentUpon>
+    </Compile>
     <Compile Include="models\Category.cs" />
     <Compile Include="models\OrganizerTask.cs" />
     <Compile Include="Program.cs" />
@@ -83,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRemoveCategory.resx">
+      <DependentUpon>FormRemoveCategory.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

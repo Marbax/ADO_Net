@@ -33,5 +33,13 @@ namespace orgamizer_ADO
         {
             this.DialogResult = DialogResult.Cancel;
         }
+
+        private void textBoxCategoryName_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Escape)
+                this.buttonCancel_Click(sender, e);
+            else if (e.KeyCode == Keys.Enter)
+                this.buttonAdd_Click(sender, e);
+        }
     }
 }

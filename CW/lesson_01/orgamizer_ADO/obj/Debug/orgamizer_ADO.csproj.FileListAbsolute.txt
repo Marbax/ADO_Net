@@ -10,3 +10,16 @@ J:\WinForms_and_WinApi\CW\lesson_08\orgamizer_ADO\obj\Debug\orgamizer_ADO.pdb
 J:\WinForms_and_WinApi\CW\lesson_08\orgamizer_ADO\bin\Debug\EventsDB.mdf
 J:\WinForms_and_WinApi\CW\lesson_08\orgamizer_ADO\bin\Debug\EventsDB_log.ldf
 J:\WinForms_and_WinApi\CW\lesson_08\orgamizer_ADO\obj\Debug\orgamizer_ADO.FormAddCategory.resources
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\bin\Debug\EventsDB.mdf
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\bin\Debug\EventsDB_log.ldf
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\bin\Debug\orgamizer_ADO.exe.config
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\bin\Debug\orgamizer_ADO.exe
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\bin\Debug\orgamizer_ADO.pdb
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.csprojAssemblyReference.cache
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.FormAddCategory.resources
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.FormMain.resources
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.Properties.Resources.resources
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.csproj.GenerateResource.cache
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.exe
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.pdb
+J:\ADO_Net\CW\lesson_01\orgamizer_ADO\obj\Debug\orgamizer_ADO.FormRemoveCategory.resources
