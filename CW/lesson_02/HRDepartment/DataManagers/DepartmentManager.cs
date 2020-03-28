@@ -38,7 +38,7 @@ namespace HRDepartment.DataManagers
                 SqlDataReader reader = cmd.ExecuteReader();
                 while (reader.Read())
                 {
-                    Department dep = new Department() { Name = (string)reader["Name"] };
+                    Department dep = new Department() { Id = (int)reader["Id"], Name = (string)reader["Name"] };
                     _departments.Add(dep);
                 }
 

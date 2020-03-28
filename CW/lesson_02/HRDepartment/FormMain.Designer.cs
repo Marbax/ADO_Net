@@ -39,7 +39,7 @@
             this.buttonAddEmp = new System.Windows.Forms.Button();
             this.buttonAddDep = new System.Windows.Forms.Button();
             this.groupBoxPersonalInfo = new System.Windows.Forms.GroupBox();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.rTextBoxSkills = new System.Windows.Forms.RichTextBox();
             this.labelSkills = new System.Windows.Forms.Label();
             this.numericUpDownSalary = new System.Windows.Forms.NumericUpDown();
             this.labelSalary = new System.Windows.Forms.Label();
@@ -175,7 +175,7 @@
             // 
             // groupBoxPersonalInfo
             // 
-            this.groupBoxPersonalInfo.Controls.Add(this.richTextBox1);
+            this.groupBoxPersonalInfo.Controls.Add(this.rTextBoxSkills);
             this.groupBoxPersonalInfo.Controls.Add(this.labelSkills);
             this.groupBoxPersonalInfo.Controls.Add(this.numericUpDownSalary);
             this.groupBoxPersonalInfo.Controls.Add(this.labelSalary);
@@ -200,13 +200,13 @@
             this.groupBoxPersonalInfo.Text = "Personal Info";
             this.groupBoxPersonalInfo.Enter += new System.EventHandler(this.groupBoxPersonalInfo_Enter);
             // 
-            // richTextBox1
+            // rTextBoxSkills
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(107, 442);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(302, 65);
-            this.richTextBox1.TabIndex = 15;
-            this.richTextBox1.Text = "";
+            this.rTextBoxSkills.Location = new System.Drawing.Point(107, 442);
+            this.rTextBoxSkills.Name = "rTextBoxSkills";
+            this.rTextBoxSkills.Size = new System.Drawing.Size(302, 65);
+            this.rTextBoxSkills.TabIndex = 15;
+            this.rTextBoxSkills.Text = "";
             // 
             // labelSkills
             // 
@@ -369,7 +369,7 @@
         private System.Windows.Forms.Button buttonReset;
         private System.Windows.Forms.Button buttonAddEmp;
         private System.Windows.Forms.Button buttonAddDep;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.RichTextBox rTextBoxSkills;
         private System.Windows.Forms.Label labelSkills;
         private System.Windows.Forms.NumericUpDown numericUpDownSalary;
         private System.Windows.Forms.Label labelSalary;
