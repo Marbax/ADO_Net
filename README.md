@@ -11,7 +11,7 @@
 
 </p></details>
 
-<details><summary> 2.Acquaintance continue .  </summary><p>
+<details><summary> 2.Acquaintance continue. Opened connection and procedures .  </summary><p>
 
 ---
 
@@ -21,4 +21,15 @@
 
 </p></details>
 
+
+
+<details><summary> 3.WPF and ADO. Closed conection intro .  </summary><p>
+
+---
+
+[WPF and ADO.Net(Models) example](CW/lesson_02/DeanOffice "CW\lesson_02\DeanOffice")   
+
+---
+
+</p></details>
 
