@@ -17,10 +17,11 @@
 
 [ADO.net opened connection part two example](CW/lesson_02/HRDepartment "CW\lesson_02\HRDepartment")   
 
+[ADO.net closed connection with dinamyc views example](HW/lesson_02/TestDataTable "HW\lesson_02\TestDataTable")   
+
 ---
 
 </p></details>
-
 
 
 <details><summary> 3.WPF and ADO. Closed conection intro .  </summary><p>
