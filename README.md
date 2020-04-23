@@ -24,11 +24,35 @@
 </p></details>
 
 
-<details><summary> 3.WPF and ADO. Closed conection intro .  </summary><p>
+<details><summary> 3.WPF and ADO. Disconnected conection mode intro .  </summary><p>
 
 ---
 
 [WPF and ADO.Net(Models) example](CW/lesson_02/DeanOffice "CW\lesson_02\DeanOffice")   
+
+---
+
+</p></details>
+
+
+<details><summary> 4.ADO. DBProviderFactory .  </summary><p>
+
+---
+
+[ADO.Net DBProviderFactory example](CW/lesson_04/DbFabricExample "CW\lesson_04\DbFabricExample")   
+
+---
+
+</p></details>
+
+
+<details><summary> 5.ADO. Transactions .  </summary><p>
+
+---
+
+[ADO.Net Transactions example](CW/lesson_05/transactionDemo "CW\lesson_05\transactionDemo")   
+
+[ADO.Net disconnected mode , transactions , dbFabric , legacy async , parameterized commands , DataTableMapping , DataViewManager example](HW/lesson_05/TransactionsMover "CW\lesson_05\TransactionsMover")   
 
 ---
 
