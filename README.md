@@ -58,3 +58,13 @@
 
 </p></details>
 
+<details><summary> 6.ADO. Async , await .  </summary><p>
+
+---
+
+[ADO.Net async , await , paralel](HW/lesson_06/LibraryTest4 "HW\lesson_06\LibraryTest4")   
+
+---
+
+</p></details>
+
