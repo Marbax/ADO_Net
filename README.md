@@ -68,3 +68,31 @@
 
 </p></details>
 
+<details><summary> 7. Linq.  </summary><p>
+
+---
+
+[Different linq methods](CW/lesson_07/LinqTest1 "CW\lesson_07\LinqTest1")   
+
+[Different linq methods](CW/lesson_07/LINQtoOBJexample "CW\lesson_07\LINQtoOBJexample")   
+
+[Different linq methods](HW/lesson_07/linqHW "HW\lesson_07\linqHW")   
+
+---
+
+</p></details>
+
+<details><summary> 8. Linq.  </summary><p>
+
+---
+
+[Different linq methods](CW/lesson_08/linq2 "CW\lesson_08\linq2")   
+
+[Different linq methods](HW/lesson_08/LinqGroupSort "HW\lesson_08\LinqGroupSort")   
+
+[Different linq methods](HW/lesson_08/LinqMethods "HW\lesson_08\LinqMethods")   
+
+---
+
+</p></details>
+
