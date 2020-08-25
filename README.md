@@ -96,3 +96,13 @@
 
 </p></details>
 
+
+<details><summary> 9. Entity Framework Rrepositories intro.  </summary><p>
+
+---
+
+[Different linq methods](CW/lesson_09/EntityFrameworkOriginal "CW\lesson_09\EntityFrameworkOriginal")   
+
+---
+
+</p></details>
